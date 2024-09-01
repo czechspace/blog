@@ -1,0 +1,23 @@
++++
+date = 2009-08-30
+updated = 2014-02-24
+title = "Alpbach 2009 z první ruky"
+description = "Stanislav Poddaný o Letní škole astronomie exoplanet – Alpbach 2009"
+slug ="alpbach-2009-z-prvni-ruky"
+[taxonomies]
+categories = ["cs"]
+tags = ["uzivatele-vysokoskolaci","typy-clanku-zprava-z-cizi-akce","programy-organizace-esa","programy-organizace-esa-education"]
+[extra]
+author = "Jaroslav Urbář"
+popisky = ["Městečko Alpbach, Tirolsko"]
+related = ["zprava-z-alpbachu-2008","zkusenosti-z-alpbachu-2007","alpbach-summer-school-2014"]
++++
+
+Vyprávění Stanislava Poddaného o zážitcích z absolvování Letní školy v Alpbachu v roce 2009, které se účastnil s finanční podporou CSO. Úkolem studentů bylo během deseti dnů navrhnout kosmickou misi pro výzkum exoplanet. Ačkoli mise s českým spoluautorstvím soutěž nevyhrála, byla oceněna jako nejlepší co do realizovatelnosti při současném stavu poznání a technických možností. Exoplanety patří k jednomu z nejzajímavějších a nejrychleji se rozvíjejícím tématům současné astronomie. Neuplynulo ještě ani 15 let od objevu první exoplanety a astronomové se již zcela seriozně zabývají otázkou způsobu detekce cizích kamenných planet velikosti Země a objevení případných projevů života na těchto planetách. Není proto divu, že tématem letošní letní školy bylo navržení družice, která by dokázala odpovědět na jednu z nejzákladnějších otázek lidstva: Jsme ve vesmíru sami? Letní škola začala v úterý 21. července registrací v brzkých ranních hodinách. Hned po ní a po úvodních slovech nám byl vysvětlen princip školy a úkol naší mise. Musím říci, že po zadání úkolu, který obsahoval kompletní navržení družice na detekci projevů života na exoplanetách (tzv. biomarkers) a to včetně vědeckých přístrojů, dráhy, konstrukce a financování atd., mi připadal zcela nereálný. Mým oborem jsou sice exoplanety, ale o konstrukci raket a přístrojů jsem do té doby nic neslyšel. Avšak po první schůzce našeho týmu vše začalo vypadat nadějně. Tým se skládal z 6 fyziků (z toho jsme dva byli astronomové), 8 inženýrů (2 dokonce konstruktéři raket) a jednoho geologa. Než nám začala vlastní práce na vývoji družice, absolvovali jsme sérii obecných přednášek o exoplanetách, principech detekce a způsobu konstrukce družic včetně několika velice užitečných prezentací s návodem, jak rozdělit práci v týmu a na co se při vývoji zaměřit. Ke každému týmu byli přiděleni dva lektoři pro odbornou pomoc, dále nám bylo k dispozici velké množství oborníků, jak z oblasti exoplanet tak konstrukce družic. Po dvoudenních bouřlivých diskusích uvnitř týmu jsme se v pátek kolem poledního konečně shodli na cíli naší mise: Detekce atmosfér a případných biomarkers u kamenných planet kolem M hvězd. Vlastní práce na projektu pak byla poměrně přímočará. Ukázalo se, že náš tým je opravdu velice dobře složený a vyvážený, a tak i přes drobné problémy jsme poměrně rychle mířili ke zdárnému cíli. Vzhledem k tomu, že naše práce velice rychle postupovala, zúčastnil se celý náš tým nedělního výletu do okolí. Z původně tříhodinové procházky se nakonec vyklubal téměř celodenní výlet. Díky tomu jsme se dostali do časového skluzu a následující noci jsme chodili spát až kolem třetí hodiny ranní. Každé dopoledne jsme ještě absolvovali nějaké přednášky, ale celé odpoledne až do ranních hodin jsme již tvrdě pracovali na vytvoření mise. Čas byl neúprosný. To, co běžně trvá rok a více, jsme museli zvládnout do středeční půlnoci, na kdy byl vyhlášen nemilosrdný deadline. Nejpozději o půlnoci jsme museli odevzdat desetistránkový report mise a připravenou prezentaci. Na závěrečný den pak přijela komise z ESA a každý z týmů měl prostor na hodinové představení mise. Po něm následovala půlhodina na dotazy. Večer po slavnostní večeři proběhlo vyhlášení vítězného projektu. Bohužel, zde se ukázala slabina letošní letní školy. Komise, která hodnotila jednotlivé projekty, neměla ideální složení. V komisi seděl pouze jediný odborník na exoplanety a tak si nejvíce ocenění odnesla sice kvalitně prezentovaná mise, kterou ale v reálných podmínkách nelze uskutečnit. Naše mise DWARFS Space Mission (Diverse World ARound Faint Stars) si nakonec odnesla ocenění za nejlépe připravenou misi, kterou lze se současnou technikou a prostředky uskutečnit. Po překvapivém a značně rozpačitém vyhlášení vítězů, kdy všichni čekali jednoznačné vítězství našeho týmu, se alespoň malým zadostiučiněním pro nás stalo ocenění naší práce lektory a přednášejícími na letní škole, kteří nám doporučili na misi i nadále pracovat a následně ji publikovat. Stanislav Poddaný
+
+{{ galerie() }}
+
+**Odkazy:**
+[Alpbach Summer School]
+
+[Alpbach Summer School]: http://www.summerschoolalpbach.at/

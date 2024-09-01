@@ -1,0 +1,22 @@
++++
+date = 2014-09-15
+updated = 2018-11-04
+title = "Přenos času prostřednictvím GNSS"
+description = "Využití signálů nových družicových navigačních systémů pro porovnávání časových stupnic"
+slug ="prenos-casu-prostrednictvim-gnss"
+[taxonomies]
+categories = ["cs"]
+tags = ["uzivatele-firmy","uzivatele-vedci","typy-clanku-tiskovina","typy-clanku-ukonceny-projekt"]
+[extra]
+author = ""
+popisky = ["Testování aparatur GTR51.","Aparatura Dicom je použita i na stanici pro laserové měření vzdálenosti Goddardova střediska.","Ukázka webového uživatelského rozhraní pro ovládání GTR51."]
++++
+
+Přenos času prostřednictvím GNSS Trvání projektu: 2011 až 2012 Vedoucí projektu: Petr Pánek V rámci projektu, který byl realizován za finanční podpory Ministerstva průmyslu a obchodu, proběhl vývoj prototypu aparatury GTR51, určené pro porovnávání časových stupnic. Zařízení využívá signály družicových navigačních systémů GPS, GLONASS, GALILEO a SBAS. Oproti původnímu modelu GTR50, který využíval pouze navigačních signálů GPS, umožňuje vylepšený model GTR51 využití signálů všech zmiňovaných navigačních systémů. Aparatura je určena především pro porovnávání primárních etalonů času a frekvence, provozovaných v metrologických laboratořích. Nachází však uplatnění i v řadě jiných aplikací, kde je třeba udržovat velmi přesný jednotný čas na velkém území, tj. typicky v telekomunikacích. Zařízení podporuje současné zpracování celkem třinácti signálů v pěti různých frekvenčních kanálech, a to jak měření zpoždění dálkoměrného kódu, tak měření fáze nosné vlny. Díky velké šířce pásma přijímače je zajištěna sub-nanosekundová přesnost i v případě kódového měření. Umístěním kritických prvků aparatury do teplotně stabilizovaného boxu je dosaženo vysoké teplotní stability. Aparatura podporuje všechny standardní metody přenosu času a frekvence. Výstupní měřená data mohou být vztažena buď ke vstupní, nebo k výstupní časové referenci reprezentované časovými značkami 1 puls za sekundu. Činnost přístroje je možné ovládat a sledovat prostřednictvím webového uživatelského rozhraní. Dále v rámci projektu proběhl výzkum v oblasti problematiky porovnávání časových stupnic zaměřený na teoretickou analýzu a experimentální ověření metod, založených na současném měření prostřednictvím mnoha signálů v několika frekvenčních kanálech. Tyto výzkumné práce proběhly v těsné spolupráci s Ústavem fotoniky a elektroniky, Akademie věd ČR, který byl spoluřešitelem projektu. Praktické ověření vlastností prototypu a navržených metod porovnávání časových stupnic proběhlo ve spolupráci s laboratoří času a frekvence ve Fyzikálně Technickém Institutu v německém Braunschweigu. DICOM DICOM je technologická společnost, jejíž výrobky jsou určené hlavně pro ozbrojené složky a letectví. V současnosti DICOM nabízí úplný sortiment produktů pro hlasovou a datovou komunikaci, časoměrnou techniku a speciální elektroniku pro letecký průmysl. Společnost disponuje vlastním vývojovým oddělením, moderními CNC obráběcími stroji, SMT linkou, technologiemi pro kontrolu kvality a špičkově vybavenými vývojovými laboratořemi. Kontrola kvality probíhá podle standardů ISO, MIL-STD, STANAG a dalších. DICOM je dceřinou společností akciové společnosti MESIT holding, která byla založena v roce 1993. Firma MESIT se zabývá vývojem a výrobou palubní letecké elektroniky již od roku 1952. Na tuto dlouholetou tradici vývoje a výroby elektroniky pro speciální použití navazuje DICOM od roku 1993 jako samostatná firma. Co vám účast v projektu přinesla? „Hlavním přínosem projektu je úspěšně dokončený vývoj nového výrobku, o který mají zájem uživatelé po celém světě. Našimi aparaturami pro porovnávání časových stupnic jsou již vybaveny laboratoře spravující národní etalony času a frekvence ve 20 zemích i laboratoř času a frekvence při Mezinárodním úřadu pro míry a váhy. Pro navázání primárních zdrojů frekvence je také využívá několik telekomunikačních operátorů. Dále jsou využívány v nejrůznějších vědeckých projektech a v kosmických programech ESA (GTR51) a NASA (GTR50). Zařízení nalezlo své využití např. v programu Lunar Reconnaissance Orbiter, kde slouží k přenosu přesného času na stanici pro laserové měření vzdálenosti Goddardova střediska kosmických letů (Goddard‘s Laser Ranging Facility). Dalším přínosem bylo zahájení spolupráce s novými partnery."
+
+{{ galerie() }}
+
+**Přílohy:**
+[Facsheet Time transfer via GNSS]
+
+[Facsheet Time transfer via GNSS]: cso_factsheets-dicom-web.pdf

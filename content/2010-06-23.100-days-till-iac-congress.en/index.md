@@ -1,0 +1,17 @@
++++
+date = 2010-06-23
+title = "100 days till IAC Congress"
+description = "In 100 days Prague will become the world center of astronautics"
+slug ="100-days-till-iac-congress.en"
+[taxonomies]
+categories = ["en"]
+tags = ["programy-organizace-iac","typy-clanku-komentar-udalosti","programy-organizace-iaf","typy-clanku-pozvanka-na-akci-cso","programy-organizace-esa","uzivatele-firmy","uzivatele-vedci","typy-clanku-pozvanka-na-cizi-akci","typy-clanku-tiskova-zprava","uzivatele-verejnost","uzivatele-postgradualove","uzivatele-vysokoskolaci"]
+[extra]
+author = ""
+popisky = ["Logo IAC 2010"]
+related = ["nasa"]
++++
+
+Prague, 23 June 2010 - Current topics of climate change and the use of space technology for environmental monitoring will be few of the main topics of the forthcoming International Astronautical Congress (IAC), which after more than 30 years will take place in Prague at the end of September and which will welcome over 2000 world top scientists. The largest national space agencies like NASA, JAXA and Roskosmos will be also present at the event. "Victory of Prague as a place to host this year's International Astronautical Congress is a great opportunity for Czech Republic to let the world know about our interest in space and invite to Czech Republic the greatest leaders in this field. After the accession of our country to the European Space Agency in 2008, IAC 2010 can be considered as the second biggest event in the field of space," says Czech Space Office director Jan Kolar. One of the main topics of the agenda will be for example climate change and the use of space technology for its monitoring and evaluation. Satellites for remote sensing of Earth are now able to measure the sea and oceans level and since 1993 their results already indicate, that the average height of the global ocean levels has been rising by about three millimeters per year. The growing need for information about status and changes in the environment on Earth is directly related to the global effort to set up the operating systems for long-term environmental monitoring using satellites. An example might be the European Union program for Global Monitoring of Environment and Security (GMES). The operation of space systems will be also a topic of discussion during congress. Another important event of the program will be the exploration of the solar system, through unmanned robotic mission and human spaceflight as well. This is directly related to the using of the International Space Station (ISS), which celebrates this year the tenth anniversary of continuous crew habitation. The congress will also include the meeting of leaders of national and international space agencies like NASA, ESA, CNSA, JAXA, Roskosmos etc., a special section for students and young generation, representatives of parliaments, a joint workshop of the UN and IAF and last but not least, the industrial exhibition of space industry which will run throughout the whole week in parallel with the congress session. At present, the space exhibition has been leased to 34 companies and space agencies from around the world with a total area of 800 m2. For the second time in history, the 61st IAC will be held in Prague. The first time it was in 1977 and together with IAF it has now been organized by Czech Space Office in cooperation with company Guarant International services in the Prague Congress Centre from 27th September till 1st October 2010.
+
+{{ galerie() }}

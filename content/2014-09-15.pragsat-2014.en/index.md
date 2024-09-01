@@ -1,0 +1,21 @@
++++
+date = 2014-09-15
+title = "PragSAT 2014"
+description = "Development of the minisatellite for the ESA CanSat 2014 Competition at the Andøya Rocket Range in Norway"
+slug ="pragsat-2014.en"
+[taxonomies]
+categories = ["en"]
+tags = ["programy-organizace-esa","uzivatele-firmy","uzivatele-stredoskolaci","programy-organizace-esa-education","uzivatele-vedci"]
+[extra]
+author = ""
+popisky = ["Students at Andøya Rocket Range in Norway","PragSAT with triple parachute.","PragSAT with triple parachute.","Graphical output of captured data - acceleration and altitude versus time."]
++++
+
+PragSAT 2014 Project duration: 2013 to 2014 Project manager: Vladimír Váňa Students participate, among others, in the European contest called ESA CanSat Competition. Teams of high schools students are to develop and manufacture minisatellites, called CanSats, with dimensions of a soft drink can with a volume of 330 ml. The final round of the contest is held annually at Andøya Rocket Range in Norway. The Prague team broke through to the final round in 2012 and in 2014 followed its previous participation. Unlike other teams, the Czech team, composed of four students 18 to 19 years old, did not use any of the manufactured kits, because it had decided to develop its own minisatellite. The name of the minisatellite has been determined simply as PragSAT. Mechanical parts of CanSat consisted of couple of supporting circular aluminium plates connected to each other by four bolts. These bolts supported trio of PCB‘s. Above these PCB‘s, 5V stabilizer, battery and transceiver were located. The transceiver was located close to the aluminium plate with antenna opening. In the construction supporting plate, on the other side of the minisatellite, there was screwed a hook attaching the trio parachutes made of flares. At the end, a protective aluminium cylindrical cover was used to shield the minisatellite. This cover had the same diameter as a soft drink can and the distance of supporting circular plates was the same as the height of a can. Mandatory mission objectives were temperature and atmosphere measurements. Extending mission, that the team choose, included 3D acceleration and magnetic field measurements. For this purpose students equipped the minisatellite with MEMS sensors, namely atmospheric pressure sensor, gyroscope and accelerometer and magnetometer located on a chip. Digital signals from the sensors were collected and processed by onboard computer ATMega with Arduino system. Minisatellite’s electronics were powered by 9V battery. The PragSAT was launched by a small rocket to the altitude of about 1 km from Norway in June 2014. Descent to the ground was secured by parachutes. Measured data were encoded and transmitted to the ground station and backed up on an SD card during the descend phase. The ground station consisted of antenna, receiver and laptop used for data recording. Online data processing and displaying was done by the team own program. Students also processed and interpreted all the data. Based on the data, students were able to demonstrate that their PragSAT was in the microgravity for the moment. The Secondary Technical School of Electrical Engineering School was founded in 1949 as a first secondary technical school of low current electrical engineering in Prague. Approximately 600 students are accepted to study computer sciences and electrical engineering every year. The school is located in the centre of Prague. It provides a full secondary education in the fields of Electrical Engineering and Information Technologies. Students successfully participate in national and international student´s competitions in order to gain valuace practical experiences. What would you name as main benefits of the project to you and your company? “The students gained practical skills in electronics and information technologies and began to prepare for working with real space technologies. They experienced a team work in the international environment and also gained experience in the project management, reporting, technical documentation and project propagation. Last but not least, they visited Andøya Rocket Range in Norway and partook in the final round, which surely was a great experience in their lives.”
+
+{{ galerie() }}
+
+**Attachments:**
+[PragSAT 2014]
+
+[PragSAT 2014]: cso_factsheets-pragsat-web.pdf

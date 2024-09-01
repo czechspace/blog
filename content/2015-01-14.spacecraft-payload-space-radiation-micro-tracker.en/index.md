@@ -1,0 +1,21 @@
++++
+date = 2015-01-14
+title = "Spacecraft Payload Space Radiation Micro-Tracker"
+description = "Timepix-based Miniaturized Energetic Radiation Telescope Spacecraft Payload for the Microsatellite RISESAT"
+slug ="spacecraft-payload-space-radiation-micro-tracker.en"
+[taxonomies]
+categories = ["en"]
+tags = ["uzivatele-firmy","uzivatele-vedci","typy-clanku-tiskovina","typy-clanku-ukonceny-projekt"]
+[extra]
+author = "Jaroslav Urbář"
+popisky = ["Illustration of high resolution sky mapping of energetic space radiation by the Timepix-based radiation micro-telescope in low Earth orbit.","Engineering model of the payload and accommodation in the RISESAT satellite.","RISESAT international team with IEAP CTU Prague scientists (M.P. and C.G.) during payload satellite integration at Tohoku University in Japan."]
++++
+
+Space Radiation Micro-Tracker Project duration: 2011 až 2014 Project manager: Michal Platkevič Project coordinator: Carlos Granja A customized lightweight and low-power radiation micro-tracker has been constructed for the satellite RISESAT (Rapid International Scientific Experiment Satellite) which will be launched in 2016. RISESAT is a 50 kg class scientific microsatellite developed by a consortium of leading Japanese universities (Tohoku,Tokyo, Kyoto, and Hokkaido) within the frame of a Japanese Funding Program for World-Leading Innovative R&D on Science and Technology (FIRST). The Czech instrument is equipped with state-of-the-art hybrid semiconductor pixel detector technology developed by the Medipix Collaboration. Two independent detector layers operate as a particle micro-telescope and provide high angular resolution and high sensitivity tracking for directional detection of energetic charged particles (light and heavy charged particles). Also X-rays and even neutrons, with limited efficiency, can be detected. The pixel detectors provide noiseless detection of single radiation quanta, measure their energy loss, position, direction of trajectory and time of interaction. Different types of particles and interactions can be identified and distinguished thanks to the detector’s high spatial granularity and quantum counting sensitivity. The Timepix payload is highly integrated, lightweight and low-power and will provide characterization of the mixed radiation field in the outer space environment of the satellite path. The particle micro- telescope capability will provide the sky mapping of energetic charged particles in low Earth orbit (800 km). The Prague team will be in charge of all data, including its processing, evaluation and publication of results. The Institute of Experimental and Applied Physics IEAP is the research center of the Czech Technical University in Prague (CTU) for applied and fundamental research in experimental physics of the microworld. R&D focuses on advanced instrumentation and new methods with novel applications in biomedical imaging and space. The IEAP CTU has presently over 80 staff members with one fifth of foreigners and many Ph.D. students and young researchers. The institute is equipped with modern facilities such as high-resolution micro-tomography units and widerange gamma-ray source facilities designed and constructed by IEAP teams. The latter facilities serve for calibration of spacecraft instruments including a transportable station for remote onsite measurements at ESA Test Centers. The institute operates also a Van de Graaff accelerator which provides light ion and mono-energetic fast neutron sources for space-related research. What would you name as main benefits of the project to you and your company? "The main benefit was the possibility to develop our own space hardware joining a new international project led by Japanese universities. The experimental character of the satellite enabled us to propose and construct an innovative instrument with expanded features following the development and experience gained with our current spacecraft payload SATRAM which was built by CSRC Brno and which is successfully operating in LEO orbit since May 2013 onboard ESA Proba-V satellite."
+
+{{ galerie() }}
+
+**Attachments:**
+[Factsheet Spacecraft Payload Space Radiation Micro-Tracker]
+
+[Factsheet Spacecraft Payload Space Radiation Micro-Tracker]: cso_factsheet-micro-tracker-web_0.pdf

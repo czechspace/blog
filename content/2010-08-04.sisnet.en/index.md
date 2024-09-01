@@ -1,0 +1,21 @@
++++
+date = 2010-08-04
+title = "SISNeT"
+description = "Support of ESA development of SISNeT-related software and applications"
+slug ="sisnet.en"
+[taxonomies]
+categories = ["en"]
+tags = ["programy-organizace-pecs","typy-clanku-tiskovina","programy-organizace-esa","uzivatele-firmy","typy-clanku-ukonceny-projekt","uzivatele-vedci"]
+[extra]
+author = ""
+popisky = ["GUI of SBAS TeACHER program."]
++++
+
+Czech participation in EGNOS programme Project duration: 2005 to 2008 Project manager: Miroslav Houdek Czech Republic‘s membership in PECS programme made it possible to prepare projects for European Space Agency also in satellite navigation domain. One of the first czech projects in the frame of EGNOS programme became project SISNeT. It stands for “Signal in Space through the Internet, which is in fact a technology, that enables spreading accurate navigation data from EGNOS system on Internet. One of the main project objectives was to re-engineer existing Data Server and add significant new services and functions. It had been divided into two consequential phases. The goal of first phase was to redevelop the SISNeT Data Server service using scripting language (Python) to increase performance, reliability and maintainability of the software. Consequently, two new services “remote calculation of EGNOS corrections“ and “remote calculation of user’s position based on given measurements“, were addded. These server-side computations shall allow easier utilization of EGNOS corrections on hardware with weak computational force such as smartphones. To test the new functions, such as position evaluation function, a number of testing scripts were developed. To allow the new functions to be tested in the field a device driver for Pocket PC phones was developed. The SBAS TeACHER, a new tool for manipulation of SBAS messages, was also developed within the frame of the project. It is capable of decoding SBAS messages, changing their content and encoding them back, as well as creating a new SBAS message from scratch. Editing of all types of messages is available in a very simple visual and user-friendly way. At first it was developed internally to test applications in the context of SISNeT-PECS project, but ESA soon decided to make it available also to worldwide navigation community. Iguassu Software Systems (ISS) The company was established in 1994 and it is focused on high-tech solutions including real-time software development from industrial systems to satellite control and satellite navigation. Customers include the European Space Agency and its suppliers, Eumetsat, HP, Agilent, Ingersoll-Rand and Inter-American Development Bank. ISS is currently working on: What would you name as main benefits of the project to you and your company? “For Iguassu company The SISNeT project was, from “work with ESA” perspective, an important milestone as it was for other companies and for the Czech Republic in general. It was among the first czech projects within ESA’s PECS (Plan for European Cooperating States) programme. Our company already possesed indispensable experience with ESA’s mechanisms as managing director of Iguassu, Petr Bareš, used to be part of ESA staff for a long time. Still, there were a lot of things to learn, especially for the rest of Iguassu’s project team lacking such a personal experience. This first project in space domain enabled to unexperienced engineers, like myself, learn space project’s life cycle. That is sequence of development phases ranging from User Requirements’ phase to final project handover. It required large amount of documentation defined by ESA standards. At the same time, the project was our first one from in the field of satellite navigation, and as such it required noticable amount of learning time. With succesful completion of the project, the Iguassu company gained highly valuable experience, which was and still is used when bidding for new projects. The project shifted Iguassu’s position from an ‘experience gainer’ to “significant contributor” to development of navigation technologies and thus Iguassu became a recognized partner of European Space Agency.”
+
+{{ galerie() }}
+
+**Attachments:**
+[Factsheet SISNeT]
+
+[Factsheet SISNeT]: csofactsheets-sisnet-web.pdf

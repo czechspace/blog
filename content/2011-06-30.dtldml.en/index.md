@@ -1,0 +1,21 @@
++++
+date = 2011-06-30
+title = "DTL/DML"
+description = "DTL/DML based mission control system (MCS) demonstrator"
+slug ="dtldml.en"
+[taxonomies]
+categories = ["en"]
+tags = ["programy-organizace-pecs","typy-clanku-tiskovina","programy-organizace-esa","uzivatele-firmy","typy-clanku-ukonceny-projekt","uzivatele-vedci"]
+[extra]
+author = ""
+popisky = ["Mission Control System of the Europian Space Agency SCOS-2000."]
++++
+
+Verification of new software libraries functionality Trvání projektu: 2007 to 2010 Project manager: Helena Kalenská Within the previous PECS project ”Advanced SCOS-2000 Monitoring” ANF DATA participated in the development of ESA Ground Operations software (EGOS) generic libraries covering the management and transfer of telemetry packets. The “DTL/DML based MCS Demonstrator” is a follow-on activity with the purpose of verifying the new EGOS Data Transfer and Data Management libraries (DTL/DML) within the existing Mission Control System SCOS-2000. The main benefit of the new architecture is that the data distribution components do not depend on the existing SCOS-2000 specific libraries. This allows reusing the new components not only within the SCOS-2000 MCS but also within other systems in the ESA ground segment. The new data distribution components (Basic Data Consumers, Providers, Distribution Nodes, and Filters) can be easily enhanced to support distribution of any type of data in a platform independent way. It is sufficient to define new data types by means of the Interface Definition Language (IDL), derive data filters from the existing Basic Filters (only if data filtering is required), and instantiate appropriate chain of data providers, data nodes, and data consumers – adding specific functionality and data handling as needed. The telemetry reception and telemetry distribution chain of the SCOS-2000 MCS Demonstrator has been re-engineered using the new data distribution components. The Centralized Packet Distribution servers were replaced by the Generic Data Distribution Nodes, and the Packet Archiving Filing and Distribution servers were replaced by the Generic Data Distribution Nodes with additional filing capability. Unit, integration and system tests were performed with the automated testing framework ART (Automated Regression Testing). Performance tests of the SCOS-2000 MCS Demonstrator proved that the requirements for the SCOS-2000 live data distribution chain were fulfilled. The overall ESA project was performed in cooperation with Siemens Austria (prime contractor). ANF DATA The company was established in 1992 as a daughter company of Siemens AG Austria. ANF DATA offers complex IT services – development of software solutions, system integration, system support, HW deliveries, consulting and trainings. It provides solutions both on the local and international market in various fields, e.g. industry, energy, communications, ground segment of the space industry, and inventory management. The ANF DATA Space department was established in 1998 and since that time has cooperated with Siemens Austria on development of various software solutions for the European Space Agency (ESA), German Space Agency (DLR), European navigation system Galileo, and for leading satellite operators. In the frame of the PECS programme ANF DATA has participated in three international projects aimed at the use of state of the art technologies in ESA’s monitoring, control and information systems. What would you name as main benefits of the project to you and your company? Project Manager Helena Kalenská: “The developed prototype software (DTL/DML based MCS Demonstrator) was based on a very new SCOS-2000 release version R5.0, which introduced a lot of new concepts and features (e.g. Packet Archiving Filing & Distribution servers, improved multi-domain capabilities, decoupled GUI tasks, etc). During this activity we became more familiar with the new SCOS-2000 release, which later proved to be essential for our first ESA project within the Czech Industry Incentive Scheme programme in 2010. Our experience from the PECS programme also helped us significantly to be selected as the ESA Qualified Partner for the Ground System Software Related Activities (2010-2014).”
+
+{{ galerie() }}
+
+**Attachments:**
+[Factsheet DTL/DML]
+
+[Factsheet DTL/DML]: csofactsheets-dtl-dml-web.pdf

@@ -1,0 +1,27 @@
++++
+date = 2013-12-02
+updated = 2018-11-04
+title = "Akcelerometry spuštěny"
+description = "České mikroakcelerometry z VZLÚ na družicích ESA Swarm úspěšně spuštěny a posílají data"
+slug ="akcelerometry-spusteny"
+[taxonomies]
+categories = ["cs"]
+tags = ["typy-clanku-komentar-udalosti","typy-clanku-informace-o-cso","programy-organizace-esa","uzivatele-firmy","uzivatele-vedci","programy-organizace-eoep","uzivatele-postgradualove","typy-clanku-tiskova-zprava","uzivatele-verejnost"]
+[extra]
+author = ""
+popisky = ["Okamžik radosti z úspěšného odaretování všech tří mikroakcelerometrů. Vlevo: Radek Peřestý - manažer projektu; vpravo Jiří Kraus - hlavní inženýr projektu.","Okno zobrazující provozní režim ACC1 na družici Swarm A.","Data o poloze krychle uvnitř ACC1 na družici Swarm A.","Mechanismus aretace držící krychli uvntř měřící dutiny akcelerometru.","Montáž čidla akcelerometru.","3D ilustrace mise Swarm na oběžné dráze ve výšce kolem 500 kilometrů nad Zemí.","Zobrazení prvních 90 obletů družic Swarm kolem Země."]
+related = ["mikroakcelerometry-dokonceny"]
++++
+
+Praha, 2. prosince 2013 – dnes v 11:24 dorazila do ČR první kompletní data ze tří přístrojů na družicích ESA Swarm, které pochází z Výzkumného a zkušebního leteckého ústavu v Praze. Jejich účelem je měřit nepatrná zrychlení družic na oběžné dráze. České mikroakcelerometry byly zapnuty a úspěšně oživeny ve čtvrtek 28.11. z řídícího centra ESOC v Darmstadtu. Podle prvních analýz byla potvrzena správná technická funkce všech tří přístrojů. Získaná data se nacházejí v očekávaném měřicím rozsahu a parametry výstupního signálu jsou v souladu s výsledky testů provedených na Zemi. Vyhodnocení vědeckého signálu bude probíhat do konce zkušebního provozu družic, tedy do poloviny února 2014. Jedná se o dosud největší realizovaný český kosmický projekt s Evropskou kosmickou agenturou, jehož náplní byla výroba letových přístrojů. Mise Swarm, která z ruského kosmodromu Pleseck do vesmíru odstartovala v pátek 22. listopadu, má za úkol detailně zmapovat prostorové a časové změny magnetické pole Země. Údaje získané během minimálně čtyřletého měřicího období pomohou objasnit procesy, které se odehrávají v zemském jádru a plášti. Magnetické pole Země je také zásadně důležité pro zachování veškerého života na Zemi, neboť chrání buňky organismů před náletem elektricky nabitých částic od Slunce, takzvaným slunečním větrem. Magnetické pole se neustále dynamicky mění a mimo jiné ovlivňuje proudění oceánů, zemské klima a slouží jako navigační prostředek pro řadu migrujících živočichů. Hlavními vědeckými přístroji na palubě každé ze tří družic Swarm jsou tedy dva magnetometry pro měření intenzity a směru magnetického pole a přístroj pro měření elektrického pole. „Pro přesné zmapování magnetického pole je velmi důležitá přesná informace o poloze družice a zde se objevila dobrá příležitost pro nasazení našich mikroakcelerometrů. Jejich úlohou je zpřesnit informaci o okamžité poloze družice v prostoru, která se jinak standardně určuje pomocí GPS, sledovačů hvězd a laserových koutových odražečů. Mikroakcelerometr měří hustotu a dynamické účinky zbytků atmosféry a slunečního záření na družici během letu. Jinými slovy, přístroj měří velikost a směr síly, která družici brzdí nebo urychluje, o velikostech menších než 10-4 ms-2,“ vysvětluje Radek Peřestý, manažer projektu. Vývoj přesných mikroakcelerometrů v Čechách má svou tradici, která sahá až do poloviny 80. let minulého století, kdy se jejich vývojem zabýval Astronomický ústav Československé akademie věd v souvislosti s výzkumem dráhové dynamiky umělých družic Země. Mikroakcelerometry pro Swarm představují již čtvrtou vývojovou generaci, tzv. MAC04. První prototyp byl otestován v roce 1992 na ruské družici Resurs F1, MAC02 letěl v roce 1996 na palubě raketoplánu Atlantis a MAC03 odstartoval na malé české družici MIMOSA v roce 2003. „Vývoj akcelerometru pro Swarm probíhal v letech 2005 až 2011 a naším zákazníkem byla německá firma EADS Astrium, která je hlavním dodavatelem družic Swarm pro ESA a je tedy zodpovědná za technickou realizaci celé mise. Vzhledem k náročnosti technického řešení se projekt přesunul z Astronomického ústavu AV ČR do VZLÚ a na projektu se subdodavatelsky podílelo dalších 14 českých firem,“ oznamuje Josef Kašpar, ředitel VZLÚ, a.s. „Skutečnost, že bylo týden po startu Swarm ověřeno, že všechny tři české přístroje fungují dle plánu, představuje nejen pro VZLÚ, ale i pro celou českou kosmonautiku, významnou událost. Naše pracoviště opět prokázala, že jsou schopna splnit náročné požadavky ESA na kvalitu a spolehlivost a že mají nejen evropskému, ale i světovému kosmickému průmyslu, co nabídnout,“ komentuje událost Jan Kolář, ředitel České kosmické kanceláře, která se na projektu podílela organizací doplňkových vzdělávacích aktivit a pro český průmysl uspořádala řadu školení o projektovém managementu, zajištění kvality a technických standardech dodávek pro Evropskou kosmickou agenturu pod vedením odborných školitelů z ESA. Záznam startu rakety Rokot z kosmodromu Pleseck 22.11.2013 13:02 se třemi družicemi Swarm na palubě. 
+
+{{ galerie() }}
+
+**Odkazy:**
+[Výzkumný zkušební a letecký ústav]
+[SERENUM]
+[Mise Swarm na webu ESA]
+
+[Výzkumný zkušební a letecký ústav]: http://vzlu.cz/
+[SERENUM]: http://serenum.cz/
+[Mise Swarm na webu ESA]: http://www.esa.int/Our_Activities/Observing_the_Earth/The_Living_Planet_Programme/Earth_Explorers/Swarm/ESA_s_magnetic_field_mission_Swarm

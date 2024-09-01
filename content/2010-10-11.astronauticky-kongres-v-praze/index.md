@@ -1,0 +1,17 @@
++++
+date = 2010-10-11
+updated = 2018-11-04
+title = "Astronautický kongres v Praze"
+description = "Mezinárodní astronautický kongres v Praze zviditelnil českou kosmonautiku"
+slug ="astronauticky-kongres-v-praze"
+[taxonomies]
+categories = ["cs"]
+tags = ["programy-organizace-iac","typy-clanku-komentar-udalosti","programy-organizace-iaf","typy-clanku-zprava-z-cizi-akce","uzivatele-firmy","uzivatele-vedci","typy-clanku-tiskova-zprava","uzivatele-verejnost","uzivatele-postgradualove","uzivatele-vysokoskolaci"]
+[extra]
+author = ""
+popisky = ["Přestřihávání pásky při zahájení kongresové výstavy","Odborné obecenstvo při plenárních zasedáních","Astronom a odborník na kosmonautiku doc. Luboš Perek na závěrečné galavečeři","Plenární zasedání ředitelů kosmických agentur","Dění na stánku CSO"]
++++
+
+Praha, 11. října 2010 – 61. Mezinárodní astronautický kongres (IAC), který se konal v Pražském kongresovém centru, přilákal podle údajů České kosmické kanceláře více jak tři tisíce účastníků ze 79 zemí celého světa. Kongres se také těšil pozornosti téměř sedmi desítek českých i zahraničních médií a novinářů. „Máme velkou radost z toho, jak se kongres vydařil. Naznačuje nám to nejen počet účastníků, návštěvníků a zájem médií, ale především pochvalné hodnocení, které se nám dostalo od našich zahraničních partnerů, kteří mají daleko větší zkušenosti s pořádáním podobných akcí,“ říká ředitel České kosmické kanceláře Jan Kolář a dodává: „Podobné akce jako tento kongres výrazně pomáhají celosvětově zviditelnit český kosmický výzkum a kosmonautiku obecně.“ Mezi účastníky bylo také 542 studentů a 283 mladých profesionálů profilujících se v mnoha rozmanitých oborech kosmonautiky. Sešlo se zde 300 vystavovatelů na 50 stáncích o celkové ploše 1250 metrů čtverečních. Počet sympozií byl rekordních 28 a celkový počet prezentací v nich přesáhl 1500. Mezi nejvýznamnější zahraniční účastníky patřil ředitel NASA Charles Bolden, ředitel ROSCOSMOS Anatolij Perminov, generální ředitel ESA Jean-Jacques Dordain anebo ředitel JAXA Keiji Tachikava. Nad kongresem převzal svou záštitu prezident Václav Klaus, primátor hl. m. Prahy Pavel Bém a samotného zahájení se osobně zúčastnil ministr průmyslu a obchodu Martin Kocourek. Českou kosmonautiku na kongresu představila se svým stánkem Česká kosmická kancelář. Součástí kongresu byly také speciální sekce pro studenty a mladou generaci, poslance parlamentů z různých zemí světa, společný workshop OSN a Mezinárodní astronautické federace na téma Aplikace globálních družicových navigačních systémů pro blaho lidstva a jeho rozvoj a v neposlední řadě též výstava, na které se tradičně představily firmy a pracoviště nebo velké národní kosmické agentury. Mezi zajímavé české příspěvky patřilo vystoupení Přemysla Štycha o vzdělávání v ČR v oblasti pozorování země, Patrika Čermáka o perspektivních termoelektrických telluridech, doktora Milana Pospíšila o třicetileté zkušenosti se solární energií, Jaroslava Urbáře o kompaktním a nízkonákladovém přístroji pro měření radiace, Radka Peřestého o využití velmi přesného akcelerometru pro detekci odchylek orbitálních drah, profesora Vladimíra Kopala o historii Mezinárodní astronautické akademie, Ondřeje Douleho o návrhu obytného modulu Habitat, profesora Jana Jehličky o využití Ramanovy spektroskopie pro hledání mimozemského života v horninách nebo Matyáše Šandy o projektu Hydronaut1. Jedna celá přednáška pak byla věnována české kosmonautice jako celku, na které vystoupili zástupci českých akademických pracovišť i průmyslu.
+
+{{ galerie() }}

@@ -1,0 +1,17 @@
++++
+date = 2014-02-07
+title = "Vladimír Kopal passed away"
+description = "A memory of professor Vladimír Kopal, the international space law pioneer"
+slug ="vladimir-kopal-passed-away.en"
+[taxonomies]
+categories = ["en"]
+tags = ["uzivatele-verejnost","typy-clanku-komentar-udalosti","uzivatele-vedci","uzivatele-postgradualove","uzivatele-vysokoskolaci"]
+[extra]
+author = "Kristýna Šaarová"
+popisky = ["Prof. JUDr. Vladimír Kopal, DrSc."]
+related = ["united-nations","un-copuos"]
++++
+
+Prof. JUDr. Vladimír Kopal DrSc. passed away on 27 January 2014 at the ripe age of 85 years. He was a world and former Czechslovakia pioneer of international space law, who had became an icon for many of his followers thanks to his long career at the United Nations and Czech academic environment. Professor Kopal was born on 14 August 1928. After graduating from the Faculty of Law of Charles University in Prague, he worked, between years 1959 and 1980, as a secretary of the Astronautic board of Academy of Sciences of Czechoslovakia, which officially represented Czechoslovakia in front of international organizations dealing with research and peaceful use of outer space. Soon, he as well began to hold important positions in these organizations. In 1962, he, as a Czechoslovak delegate, atteded the founding session of the Legal Subcommittee of the UN Committee on the Peaceful Uses of Outer Space. Since then, he actively participated in most of the meetings of the Committee and the Legal Subcommittee in New York, Geneva and Vienna. In the period 1983 – 1988, he was a chief of the UN Outer Space Affairs Divisions in New York. Over the years 1999 - 2003 and 2008 - 2009 he was being elected as the Chairman of the Legal Subcommittee of the United Nations. He actively participated in all three UNISPACE conferences that took place in Vienna at the invitation of the Austrian government: UNISPACE (1968), UNISPACE II (1982), UNISPACE III (1999) and annual evaluation in 2009. Though his main interest was the outer space, he participated on the preparation of the UN convention on the seabed, which is like outer space, the area that is not a subject to national sovereignty. He received numerous national and international honorable mentions and awards for his work, including membership in the prestigious international companies in France, Germany and the USA. He also served as general counselor of the International Astronautical Federation and vice president of the International Institute of Space Law. Before he left for the United Nations, he had taught as an associate professor of International law at Charles University in Prague and during his stay at the University of West Bohemia in Pilsen, he had qualified to a professor. After returning to his country, he applied his extensive experience in the Czech Board for Space Activities, an advisory body of the Ministry of Education, Youth and Sports. He could seem austere for his precision and intensive way of working, but in fact he was a very pleasant companion, with dry sence of humor and lots of interesting stories from the history. In addition to his deep knowledge and experience in the professional area he undoubtedly belonged to renaissance personalities we encounter to this generation and of whom Jan Werich claimed: "He could be here another thirty years and still would have things to say." Author: RNDr. Petr Lála
+
+{{ galerie() }}

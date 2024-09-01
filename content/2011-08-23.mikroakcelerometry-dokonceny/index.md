@@ -1,0 +1,22 @@
++++
+date = 2011-08-23
+updated = 2018-11-04
+title = "Mikroakcelerometry dokončeny"
+description = "Čeští odborníci dokončili výrobu přístrojů pro mezinárodní kosmický projekt Swarm"
+slug ="mikroakcelerometry-dokonceny"
+[taxonomies]
+categories = ["cs"]
+tags = ["typy-clanku-komentar-udalosti","programy-organizace-esa","uzivatele-firmy","programy-organizace-eoep","typy-clanku-tiskova-zprava","uzivatele-verejnost","typy-clanku-ukonceny-projekt","uzivatele-vedci","uzivatele-postgradualove","uzivatele-vysokoskolaci"]
+[extra]
+author = ""
+popisky = ["Vaccum testing of micro-accelerometer for Swarm mission"]
++++
+
+Praha, 23. srpna 2011 – Čeští konstruktéři z Výzkumného a zkušebního leteckého ústavu (VZLÚ) v Praze dokončili poslední letový kus mikroakcelerometru – speciálního měřicího přístroje, určeného pro mezinárodní kosmickou misi Swarm. Mikroakcelerometry budou nyní dopraveny do Německa, kde budou instalovány na trojici družic Swarm. Podle ředitele České kosmické kanceláře, Jana Koláře, se tak úspěšně završila česká fáze celého projektu, na kterém kromě VZLÚ spolupracovalo dalších 14 českých pracovišť. Mise Swarm má za úkol zmapovat změny v magnetickém poli Země a procesy, které se v něm odehrávají. Dojde k tomu prostřednictvím nové generace družic, které budou mít na palubě umístěny speciální měřicí přístroje. Chybět mezi nimi nebudou ani zařízení z České republiky, mikroakcelerometry, které do projektu dodal Výzkumný a zkušební letecký ústav Praha ve spolupráci s dalšími 14 českými pracovišti. Trojice družic má odstartovat z ruského kosmodromu Pleseck v létě v roce 2012, práce na družicích pro ESA zastřešuje německá firma EADS Astrium. Mikroakcelerometry jsou zařízení schopná změřit velmi malá zrychlení a jejich pomalé změny působící na družici. Vědcům pomáhají přesně určit vliv negravitačních sil na pohyb umělé družice na oběžné dráze kolem Země, a eliminují tak možné zkreslující vlivy při měření magnetického pole. „Díky členství České republiky v ESA je naše zapojení v této misi výrazné a svým způsobem i nenahraditelné. Ve vývoji a výrobě mikroakcelerometrů patří Česká republika mezi absolutní světovou špičku, vždyť vývoj první generace těchto přístrojů u nás započal už v druhé polovině 80. let,“ říká o mikroakcelerometrech Jan Kolář, ředitel České kosmické kanceláře. Význam Swarm Magnetické pole Země tvoří ochranný obal okolo planety, který nás chrání před elektricky nabitými částicemi slunečního větru a hraje mimo jiného významnou roli v navigaci. Magnetické pole Země není homogenní, a v průběhu času se jeho intenzita mění. Tento proces může mít z globálního hlediska dopad na změny klimatu nebo biosféru. Hlavním cílem mise Swarm je prozkoumat současnou intenzitu magnetického pole, procesy, které v něm probíhají a jejich vliv na klima nebo oceánské proudění. Projekt Swarm navazuje na předchozí výzkumy geomagnetického pole a jak podotýká Martin Šunkevič z České kosmické kanceláře, přichází s několika významnými inovacemi: „Posledních několik desetiletí pomáhají vědcům v získávání informací o geomagnetickém poli také družice. Mise Swarm bude unikátní v tom, že bude schopna měřit jak prostorové, tak i časové změny probíhající v magnetosféře. Aby toho bylo možno docílit, bude misi Swarm tvořit trojice identických družic. Každá družice bude obíhat na samostatné polární dráze ve výšce 400 až 550 kilometrů nad zemským povrchem. Konstelace je navržena tak, že umožní velice přesné měření směru a intenzity magnetického pole Země.“ Kosmický průmysl v ČR Výroba zařízení pro družice Swarm je dalším úspěchem České republiky v oblasti kosmonautiky. Podle České kosmické kanceláře běží v současné době okolo 30 projektů (které byly spuštěny po vstupu ČR do ESA v listopadu 2008) s českou účastí, dalších deset již bylo dokončeno. „Je vidět, že se česká pracoviště umějí chopit příležitostí, které se nám díky členství v ESA nabízí. Jsem přesvědčen, že počet českých pracovišť zapojených do kosmických aktivit bude nadále stoupat. Už nyní u nás evidujeme dalších deset pracovišť, která se nově zapojí do kosmických projektů ESA,“ podotýká k budoucnosti české kosmonautiky Kolář. Pro stávající i nové zájemce o zapojení do programů ESA pořádá Česká kosmická kancelář sérii přednášek a workshopů, jejichž cílem je seznámit účastníky s pravidly a standardy projektů ESA.
+
+{{ galerie() }}
+
+**Odkazy:**
+[Swarm na webu ESA]
+
+[Swarm na webu ESA]: http://www.esa.int/Our_Activities/Observing_the_Earth/The_Living_Planet_Programme/Earth_Explorers/Swarm/ESA_s_magnetic_field_mission_Swarm

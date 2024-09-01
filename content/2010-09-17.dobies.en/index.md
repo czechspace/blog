@@ -1,0 +1,21 @@
++++
+date = 2010-09-17
+title = "DOBIES"
+description = "Dosimetry of biological experiments in space"
+slug ="dobies.en"
+[taxonomies]
+categories = ["en"]
+tags = ["programy-organizace-pecs","typy-clanku-tiskovina","programy-organizace-esa","uzivatele-firmy","typy-clanku-ukonceny-projekt","uzivatele-vedci"]
+[extra]
+author = "Michal Václavík"
+popisky = ["Experiment on exposure of biological material to long-term effects of cosmic radiation on the outer platform EuTEF on the European module Columbus.","The container for the BASE-B/C experiment with detectors.","The container for the BASE-B/C experiment with detectors.","Examples of etched tracks from detectors irradiated onboard the ISS."]
++++
+
+Development of standart dosimetry to measure cosmic ray affect to biological material Project duration: 2007 to 2008 Project manager: František Spurný The objective of the DOsimetry of BIological Experiments in Space (DOBIES) project was to develop a standard dosimetric method as a combination of different techniques to estimate absorbed dose, dose equivalent and linear energy transfer (LET) spectrum in biological samples irradiated in space. A combination of different types of detectors was applied to achieve the goal. The response of individual types of detectors had to be assessed first. This required irradiations in standard high energy particle fields of accelerators. Several experiments in space were also realised in the frame of the project (namely BASE A, Base B/C, YING B1/B2 and others). Partners of the project were scientific teams from Belgium, Ireland and USA. The following detectors have been used by the dosimetry department of NPI in the project DOBIES: This combination of both types of detectors has been used for many years to assess dosimetric characteristics on board of spacecrafts and aircrafts, in the beams of heavy charged particles and behind the shielding of high energy particles accelerators. The DOBIES experiments enabled to assess and compare responses of different detectors both in real and simulated space radiation fields. The result is a unique recommendation and description of dosimetric systems for radiobiological experiments in space. The results of the project will serve by other space studies as a base for interpretation of measured data. Nuclear Physics Institute (NPI) Academy of Sciences of the Czech Republic The Institute was founded in 1955. In 1994 the Institute of Radiation Dosimetry became a part of the NPI as its department. The work of the Institute is primarily devoted to research in theoretical and experimental nuclear physics of low and medium energies. The Institute carries out studies in the nuclear spectroscopy of beta and gamma radiation, nuclear reactions including collisions of heavy ions and hyper-nuclear physics. Applied research is pursued in particular by nuclear analytical methods utilizing charged particles and neutrons. Research, development and production of radiopharmaceuticals are performed. The dosimetry of ionizing radiation is concerned with the metrology of ionizing radiation, the dosimetry of natural radiation fields, including dosimetry on board of aircrafts and manned spacecrafts, dosimetry of selected radionuclides and study of their transport in the environment and the biophysical effects of ionizing radiation. What would you name as main benefits of the project to your and your company? “The participation in the DOBIES project mainly enabled us to take part in several experiments and the opportunity for valuable discussions with collegues abroad. Thanks to experiments realized not only in space but also using ground radiation sources, we gained a lot of new data and we broadened our knowledge about detectors’ behavior at different radiation fields. The discussion with foreign partners was very valuable; we reassured ourselves that the research at our department is comparable with the one conducted at other international institutes. Last but not least the participation at the project enabled us to establish further contacts and also the possibility to participate at other space experiments.”
+
+{{ galerie() }}
+
+**Attachments:**
+[Factsheet DOBIES]
+
+[Factsheet DOBIES]: csofactsheets-dobies-web.pdf

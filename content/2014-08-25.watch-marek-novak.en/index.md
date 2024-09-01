@@ -1,0 +1,22 @@
++++
+date = 2014-08-25
+title = "The watch of Marek Novák"
+description = "A Czech student Marek Novák and his watch that can save your life"
+slug ="watch-marek-novak.en"
+[taxonomies]
+categories = ["en"]
+tags = ["uzivatele-verejnost","typy-clanku-komentar-udalosti","uzivatele-firmy","uzivatele-vedci","uzivatele-postgradualove","uzivatele-vysokoskolaci"]
+[extra]
+author = "Milan Halousek"
+popisky = ["Marek Novák with the recieving unit on his wrist.","The status evaluation unit of the monitored person in smartphone.","The hall of competition exhibits Intel-ISEF 2014 in Los Angeles."]
+related = ["uspechy-studentu","czech-student-has-chosen-iapteus"]
++++
+
+Explore. Get to know. Change the world. These are the words, connecting all the participants of high school students in scientific and engineering competitions. Each year, millions of them in more than seven dozen countries around the world gets involved. A nineteen year old Marek Novák was one of them. 1700 kids has passed to the highest level that is the participation in the world's largest scientific and technical festival of high school students Intel ISEF, which is held annually in the United States. The Intel ISEF competition has been held since 1950 by Society for Scince and the Public. For 17 years, the Intel company has been the main sponsor of the competition. This year, the Intel International Science and Engineering Fair was held in Los Angeles and a group of six Czech young scientists, the winners of the national contests of The Association for Youth, Science and Technology AMAVET and High School professional activities organization was involved. One of them was Marek Novák, who has attended the student fair Intel ISEF as the first of Czech students for the second time. And just like the last year, when his work focused on medicine and bioengineering was awarded by an expert jury Intel ISEF by second major prize, this year's project has attracted the attention of the jury as well as the other present experts. The objective of his project ARTEMIS - Personal Physiological Sensor Network Device is the long-term monitoring of the health status of the elderly. The result of the work is the device in form and shape of the wrist watch, that allows gathering of the data from modules, that the user carries on his body and which informs about his health and physical condition. Currently, the device works with eight modules. The most important of them is the EKG module, that monitors the heart activity of the user, modul monitoring the blood saturation, accelerometer modul for the movement detection that can alert for example in case of the fall from the stairs or the unnatural long time of the body rest, or the modul with the GPS localizator. The communication between the modules is wireless, the watch are deviced with bluetooth technology for the data transfer and the communication with evaluation device in smartphone, GSM module for the automated alert message sending in case of the detection of the data that can signalize life threatening conditions of the monitored person. The reciever of the message can be the family member or the emergency medical service. The device warns also the monitored person himself that the recieved data are not regular. Marek Novák is a student of the Faculty of electrical engineering of the Czech Technical University (at the time of the Intel ISEF award the student of the high school in České Budějovice). To his scientific career, he says: „The power of the Intel ISEF competition is in the motivation of the students from all over the world. But the ISEF is not the end, the competition should ´t be the end of the efforts, but the beginning. To win a medal is a piece of cake. It is essential to continue working and no matter if it is a new astrophysical theory, drug therapy against HIV, new arithmetic logic unit or lifesaving watch. New challenge is greater than ever before. As the latin phrase says „Per aspera ad astra“ - the way is difficult, but it will lead to the stars." The Czech Space Office is associated with Marek Novák not only by the monitoring device that uses satellite navigation, but also by him beeing the finalist of the Mars Expedition 2010 that is co-organized by Czech Space Office. To the competition he adds: „The week spent with Mars Expedition at the training center for young astronauts in Belgium Transinne was one of the best in my life!"
+
+{{ galerie() }}
+
+**Links:**
+[Web Intel ISEF]
+
+[Web Intel ISEF]: https://student.societyforscience.org/intel-isef
