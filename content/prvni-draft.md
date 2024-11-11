@@ -17,3 +17,6 @@ Název souboru je víceméně libovolný s koncovkou `.md`, ale musí být jiný
 Nedoporučuji používat názvy s mezerami, přesto že je to technicky možné.
 Například tato stránka je napsána v souboru `<složka projektu>/content/prvni-draft.md` a je dobré si ho teď hned najít a otevřít ho v úplně obyčejném textovém editoru. Tím se zjistí, jak se dá soubor upravovat.
 Provést pár drobných změn v textu, uložit je a pozorovat změnu.
+Toto je zkušební stránka
+
+Může obsahovat libovolný text i obrázky.
